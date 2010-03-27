@@ -26,6 +26,8 @@ This module installs all the currently known L<Bot::Training> modules:
 
 =item * L<Bot::Training::StarCraft>
 
+=back
+
 =cut
 
 =head1 AUTHORS
