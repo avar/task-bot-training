@@ -12,12 +12,11 @@ __END__
 
 =head1 NAME
 
-Task::Bot::Training - Install all the L<Bot::Training> training files
+Task::Bot::Training - Install all known L<Bot::Training> modules
 
 =head1 DESCRIPTION
 
-This module installs all the currently known L<Bot::Training>
-modules. Currently these are:
+This module installs all the currently known L<Bot::Training> modules:
 
 =over
 
